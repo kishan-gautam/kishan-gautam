@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Kishan Gautam
 
-<!--
-**kishan-gautam/kishan-gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Business Intelligence Analyst  
+📍 Kathmandu, Nepal  
+🎓 BBS Graduate | Tribhuvan University  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+| Tool | Level |
+|---|---|
+| Excel | Intermediate |
+| SQL (MySQL) | Intermediate |
+| Power BI | Learning |
+| Python | Beginner |
+
+---
+
+## 📂 My Projects
+
+### 1. 📊 Sales Analysis — MySQL
+> Designed a relational database with 3 tables, foreign keys,
+> and wrote 9 business analysis queries
+> 
+> **Tools:** MySQL, MySQL Workbench  
+> 🔗 [View Project](your-repo-link-here)
+
+### 2. 📈 Jobs & Salary Dashboard — Excel
+> Analyzed real-world 2023 data science job salaries
+> across countries and job titles using Pivot Charts and KPIs
+>
+> **Tools:** Microsoft Excel  
+> 🔗 [View Project](your-repo-link-here)
+
+---
+
+## 🎯 Currently Learning
+- 🟡 Power BI — Building dashboards
+- 🟡 Python — Pandas for data analysis
+
+---
+
+## 📫 Contact Me
+- 📧 your-email@gmail.com
+- 💼 LinkedIn: your-linkedin-link
