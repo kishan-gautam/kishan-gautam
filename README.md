@@ -24,7 +24,7 @@
 > and wrote 9 business analysis queries
 > 
 > **Tools:** MySQL, MySQL Workbench  
-> 🔗 [View Project](your-repo-link-here)
+> 🔗 [View Project](https://github.com/kishan-gautam/Sales_Analysis-MySQL/tree/main)
 
 ### 2. 📈 Jobs & Salary Dashboard — Excel
 > Analyzed real-world 2023 data science job salaries
