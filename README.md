@@ -42,5 +42,5 @@
 ---
 
 ## 📫 Contact Me
-- 📧 your-kissongautam@gmail.com
+- 📧 Email: kissongautam@gmail.com
 - 💼 LinkedIn: [Kishan Gautam](https://www.linkedin.com/in/kishan-gautam-18a1201b9/)
