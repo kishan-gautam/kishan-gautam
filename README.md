@@ -31,7 +31,7 @@
 > across countries and job titles using Pivot Charts and KPIs
 >
 > **Tools:** Microsoft Excel  
-> 🔗 [View Project](your-repo-link-here)
+> 🔗 [View Project](https://github.com/kishan-gautam/Excel-Jobs-Salary-Dashboard)
 
 ---
 
