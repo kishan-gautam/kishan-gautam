@@ -33,6 +33,13 @@
 > **Tools:** Microsoft Excel  
 > 🔗 [View Project](https://github.com/kishan-gautam/Excel-Jobs-Salary-Dashboard)
 
+### 3. 📊 Tech Products Sales Dashboard — Power BI
+> Built an interactive sales dashboard analyzing tech product
+> sales across 4 countries and 5 product categories
+>
+> **Tools:** Power BI, Power Query, DAX
+> 🔗 [View Project](https://github.com/kishan-gautam/PowerBI_Sales_Analysis_Dashbaord)
+
 ---
 
 ## 🎯 Currently Learning
