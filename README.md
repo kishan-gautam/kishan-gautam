@@ -7,13 +7,9 @@
 ---
 
 ## 🛠️ Skills
-
-| Tool | Level |
-|---|---|
-| Excel | Intermediate |
-| SQL (MySQL) | Intermediate |
-| Power BI | Learning |
-| Python | Beginner |
+- 📊 **Excel** — Data Analysis, Pivot Tables, KPIs, Charts
+- 🗄️ **SQL (MySQL)** — Queries, Joins, Subqueries, Database Design
+- 📈 **Power BI** — Dashboards, DAX, Power Query, Slicers
 
 ---
 
@@ -43,7 +39,6 @@
 ---
 
 ## 🎯 Currently Learning
-- 🟡 Power BI — Building dashboards
 - 🟡 Python — Pandas for data analysis
 
 ---
