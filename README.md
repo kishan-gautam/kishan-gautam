@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kishan Gautam
 
-🎯 Aspiring Business Intelligence Analyst  
+🎯 Aspiring Business Analyst  
 📍 Kathmandu, Nepal  
 🎓 BBS Graduate | Tribhuvan University  
 
