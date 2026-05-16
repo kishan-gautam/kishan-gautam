@@ -64,7 +64,7 @@
 ---
 
 ## 🎯 Currently Learning
-- 🟡 Python — Pandas for data analysis
+- 🟡 Business Analytics 
 
 ---
 
