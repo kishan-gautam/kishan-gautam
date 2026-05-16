@@ -48,8 +48,6 @@
 > **Tools:** Python · Pandas · Jupyter Notebook  
 > 🔗 [View Project](https://github.com/kishan-gautam/Python-Ecommerce-Analysis)
 
----
-
 ### 5. 🔍 Customer Trend Analysis — Python | SQL | Power BI
 
 > End-to-end analytics project analyzing customer shopping behaviour
